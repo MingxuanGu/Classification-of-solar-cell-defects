@@ -1,0 +1,4 @@
+resnet
+AdadeltaOptimizer
+learning_rate=7e-1
+ITERATION       = int(math.floor(2000 * TRAIN_PART / (BATCH_SIZE * 1.1)))
